@@ -1,5 +1,5 @@
 stage ("Test"){
   node {
-     echo "Hello World!"
+     echo "Hello World from PR!"
   }
 }
