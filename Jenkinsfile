@@ -1,3 +1,5 @@
-node {
-   echo "Hello World!"
+stage ("Test"){
+  node {
+     echo "Hello World!"
+  }
 }
